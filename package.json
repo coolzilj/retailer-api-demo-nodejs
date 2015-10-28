@@ -1,0 +1,17 @@
+{
+  "name": "retailer-api-demo-nodejs",
+  "version": "1.0.0",
+  "description": "Puffant Retailer API Demo using Node.js",
+  "main": "index.js",
+  "dependencies": {
+    "crypto-js": "^3.1.5",
+    "hmacsha1": "^1.0.0",
+    "request": "^2.65.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jin Liu",
+  "license": "MIT"
+}
